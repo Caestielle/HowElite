@@ -1,0 +1,5 @@
+## Interface: 1600
+## Title: How Elite
+## Notes: Makes your player frame 1337.
+EliteGlobal.lua
+ElitePlayerFrame.xml
